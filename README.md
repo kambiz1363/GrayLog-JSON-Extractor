@@ -12,3 +12,4 @@ Create JSON extractor for field message
 ```
 Create extractor for field message -> JSON
  ```
+![JSON](https://user-images.githubusercontent.com/36330171/64695131-ad663500-d4b0-11e9-9c23-52c7db16ea1e.jpg)
